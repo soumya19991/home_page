@@ -1,0 +1,736 @@
+/* .home,
+.home * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height:90%;
+  width: 90%;
+}
+
+.home {
+  background: #fff5f7;
+  width: 1438px;
+  height: 5299px;
+  /* width: 100%; */
+  /* height: 100vh; */
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+.wepik-export-20240101052014-ac-8-s-1 {
+  width: 542px; 
+   height: 867px; 
+  position: absolute;
+  left: calc(50% - 545px);
+  top: calc(50% - 1724.5px);
+  object-fit: cover;
+}
+
+.rectangle-12 {
+  background: #ffe7eb;
+  width: 1440px;
+  height: 610px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 110px;
+}
+
+.ice-cream-since-1974 {
+  color: #d41442;
+  text-align: center;
+  font-family: "TitanOne-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 343px);
+  top: 860px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.traditional-delicious {
+  color: #ffa5ba;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 112px);
+  top: 820px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.creamka-logo-page-0001-1-removebg-preview-1 {
+  /* width: 180px; */
+  /* height: 99.45px; */
+  position: absolute;
+  left: calc(50% - 90px);
+  top: 5px;
+  object-fit: cover;
+}
+
+.group-7 {
+  height: auto;
+  position: absolute;
+  left: 1170px;
+  top: 785px;
+  overflow: visible;
+}
+
+.group-8 {
+  height: auto;
+  position: absolute;
+  left: 226px;
+  top: 859px;
+  transform: translate(0px, -74px);
+  overflow: visible;
+}
+
+.group-3 {
+  /* height: auto; */
+  position: absolute;
+  right: 6.95%;
+  left: 83.26%;
+  /* width: 9.78%; */
+  bottom: 98.65%;
+  top: 0.79%;
+  height: 0.56%;
+  overflow: visible;
+}
+
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+
+.group-4 {
+  width: 29.44px;
+  height: 29.44px;
+  position: absolute;
+  right: 91.01%;
+  left: 6.94%;
+  width: 2.04%;
+  bottom: 98.69%;
+  top: 0.75%;
+  height: 0.56%;
+  overflow: visible;
+}
+
+._91-95405-75252 {
+  color: #f58221;
+  text-align: center;
+  font-family: var(--body-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--body-font-size, 18px);
+  line-height: var(--body-line-height, 26px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  left: 140px;
+  top: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vector18 {
+  height: auto;
+  position: absolute;
+  right: 84.7%;
+  left: 15.2%;
+  width: 0.09%;
+  bottom: 76.91%;
+  top: 23.03%;
+  height: 0.05%;
+  transform: translate(-2.21px, -2.43px);
+  overflow: visible;
+}
+
+.vector19 {
+  height: auto;
+  position: absolute;
+  right: 84.28%;
+  left: 15.61%;
+  width: 0.11%;
+  bottom: 76.92%;
+  top: 23.03%;
+  height: 0.05%;
+  transform: translate(-2.33px, -2.2px);
+  overflow: visible;
+}
+
+.vector20 {
+  height: auto;
+  position: absolute;
+  right: 83.85%;
+  left: 16.05%;
+  width: 0.1%;
+  bottom: 76.94%;
+  top: 23.02%;
+  height: 0.04%;
+  transform: translate(-1.89px, -1.43px);
+  overflow: visible;
+}
+
+.vector21 {
+  height: auto;
+  position: absolute;
+  right: 46.3%;
+  left: 53.61%;
+  width: 0.09%;
+  bottom: 64.36%;
+  top: 35.58%;
+  height: 0.05%;
+  transform: translate(-2.21px, -2.43px);
+  overflow: visible;
+}
+
+.vector22 {
+  height: auto;
+  position: absolute;
+  right: 45.88%;
+  left: 54.01%;
+  width: 0.11%;
+  bottom: 64.37%;
+  top: 35.58%;
+  height: 0.05%;
+  transform: translate(-2.33px, -2.2px);
+  overflow: visible;
+}
+
+.vector23 {
+  height: auto;
+  position: absolute;
+  right: 45.45%;
+  left: 54.46%;
+  width: 0.1%;
+  bottom: 64.39%;
+  top: 35.57%;
+  height: 0.04%;
+  transform: translate(-1.89px, -1.43px);
+  overflow: visible;
+}
+
+.group-95 {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-20 {
+  background: #ffe7eb;
+  border-radius: 15px;
+  width: 612px;
+  height: 546px;
+  position: absolute;
+  left: 727px;
+  top: 1085px;
+  box-shadow: 0px 1px 12px 0px rgba(212, 20, 66, 0.3);
+}
+
+.group-42 {
+  width: 501px;
+  height: 465px;
+  position: static;
+}
+
+.passionately-crafted-ice-cream-since-1974 {
+  color: #d41442;
+  text-align: left;
+  font-family: "TitanOne-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 1164px;
+  width: 408px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.cream-ka-a-well-known-ice-cream-brand-with-manufacturing-in-noida-and-catering-to-the-indian-cities-of-delhi-noida-gurgaon-and-faridabad-since-our-founding-in-1974-we-have-worked-tirelessly-to-perfect-the-art-of-making-delicious-ice-cream-by-hand-our-dedication-to-quality-and-creativity-has-earned-us-a-solid-reputation-we-combine-classic-recipes-with-innovative-flavors-to-create-a-wide-variety-of-frozen-treats-that-are-sure-to-please-even-the-pickiest-eaters {
+  color: #555555;
+  text-align: justified;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 1251px;
+  width: 501px;
+  display: flex;
+  align-items: center;
+  justify-content: undefined;
+}
+
+.about-us {
+  color: #ffa5ba;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 1125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.frame-21 {
+  background: #f58221;
+  border-radius: 15px;
+  padding: 20px 40px 20px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 782px;
+  top: 1521px;
+}
+
+.discover-more {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28.8px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.group-142 {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-26 {
+  background: #ffe7eb;
+  border-radius: 15px;
+  width: 612px;
+  height: 602px;
+  position: absolute;
+  left: 100px;
+  top: 1952px;
+  box-shadow: 0px 1px 12px 0px rgba(212, 20, 66, 0.3);
+}
+
+.cream-ka-an-ice-cream-experience-like-no-other {
+  color: #d41442;
+  text-align: left;
+  font-family: "TitanOne-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+  font-weight: 400;
+  position: absolute;
+  left: 153px;
+  top: 2041px;
+  width: 501px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.cream-ka-a-well-known-ice-cream-brand-with-manufacturing-in-noida-and-catering-to-the-indian-cities-of-delhi-noida-gurgaon-and-faridabad {
+  color: #555555;
+  text-align: justified;
+  font-family: var(--body-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--body-font-size, 18px);
+  line-height: var(--body-line-height, 26px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  left: 153px;
+  top: 2123px;
+  width: 501px;
+  display: flex;
+  align-items: center;
+  justify-content: undefined;
+}
+
+.why-choose-us {
+  color: #ffa5ba;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28.8px;
+  font-weight: 400;
+  position: absolute;
+  left: 153px;
+  top: 2000px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.group-90 {
+  width: 507px;
+  height: 77px;
+  position: static;
+}
+
+.group-62 {
+  width: 60px;
+  height: 68px;
+  position: static;
+}
+
+.rectangle-21 {
+  background: #fff5f7;
+  border-radius: 8px;
+  width: 60px;
+  height: 68px;
+  position: absolute;
+  left: 153px;
+  top: 2226px;
+  box-shadow: 0px 1px 10px 0px rgba(212, 20, 66, 0.25);
+}
+
+.layer-222 {
+  width: 45px;
+  height: 49.82px;
+  position: absolute;
+  right: 85.69%;
+  left: 11.18%;
+  width: 3.13%;
+  bottom: 56.88%;
+  top: 42.18%;
+  height: 0.94%;
+  overflow: visible;
+}
+
+.group-88 {
+  width: 427px;
+  height: 77px;
+  position: static;
+}
+
+.nature-s-bounty-in-every-scoop {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 233px;
+  top: 2222px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-iscing-elit-sed-do-eiusm {
+  color: #555555;
+  text-align: left;
+  font-family: var(--body-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--body-font-size, 18px);
+  line-height: var(--body-line-height, 26px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  left: calc(50% - 487px);
+  top: 2247px;
+  width: 427px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.group-91 {
+  width: 507px;
+  height: 77px;
+  position: static;
+}
+
+.rectangle-22 {
+  background: #fff5f7;
+  border-radius: 8px;
+  width: 60px;
+  height: 68px;
+  position: absolute;
+  left: 153px;
+  top: 2319px;
+  box-shadow: 0px 1px 10px 0px rgba(212, 20, 66, 0.25);
+}
+
+.group-58 {
+  width: 36px;
+  height: 56.84px;
+  position: absolute;
+  right: 86.04%;
+  left: 11.46%;
+  width: 2.5%;
+  bottom: 55.05%;
+  top: 43.88%;
+  height: 1.07%;
+  overflow: visible;
+}
+
+.group-89 {
+  width: 427px;
+  height: 77px;
+  position: static;
+}
+
+.crafted-with-passion-precision {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 233px;
+  top: 2315px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-iscing-elit-sed-do-eiusm2 {
+  color: #555555;
+  text-align: left;
+  font-family: var(--body-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--body-font-size, 18px);
+  line-height: var(--body-line-height, 26px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  left: calc(50% - 487px);
+  top: 2340px;
+  width: 427px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.group-127 {
+  width: 507px;
+  height: 77px;
+  position: static;
+}
+
+.group-622 {
+  width: 60px;
+  height: 68px;
+  position: absolute;
+  left: 153px;
+  top: 2412px;
+  overflow: visible;
+}
+
+.unforgettable-and-soul-stirring {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 233px;
+  top: 2408px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-iscing-elit-sed-do-eiusm3 {
+  color: #555555;
+  text-align: left;
+  font-family: var(--body-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--body-font-size, 18px);
+  line-height: var(--body-line-height, 26px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  left: calc(50% - 487px);
+  top: 2433px;
+  width: 427px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.wepik-export-20240103171706-he-ax-1 {
+  width: 467px;
+  height: 880px;
+  position: absolute;
+  left: 806px;
+  top: 1794px;
+  object-fit: cover;
+}
+
+.objects-1 {
+  width: 998px;
+  height: 610px;
+  position: absolute;
+  left: 392px;
+  top: 110px;
+  object-fit: cover;
+}
+
+.group-1272 {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-4 {
+  background: #fff5f7;
+  border-radius: 15px;
+  width: 820px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - 410px);
+  top: 117px;
+}
+
+.group-39 {
+  width: 743px;
+  height: 27px;
+  position: static;
+}
+
+.products {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 714px;
+  top: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.services {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 859px;
+  top: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-us {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 982px;
+  top: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home2 {
+  color: #f58221;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 356px;
+  top: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-us2 {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 453px;
+  top: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery {
+  color: #555555;
+  text-align: center;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  position: absolute;
+  left: 586px;
+  top: 131px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lorem-ipsum-sit-amet {
+  color: #d41442;
+  text-align: left;
+  font-family: "TitanOne-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 620px);
+  top: 301px;
+  width: 443px;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+  color: #555555;
+  text-align: left;
+  font-family: var(--body-font-family, "Poppins-Regular", sans-serif);
+  font-size: var(--body-font-size, 18px);
+  line-height: var(--body-line-height, 26px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  left: calc(50% - 620px);
+  top: 443px;
+  width: 368px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.line-2 {
+  border-style: solid;
+  border-color: #d41442;
+  border-width: 5px 0 0 0;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+  /* left: calc(50% - 720px); */
+  top: 725px;
+}
